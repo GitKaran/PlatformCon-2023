@@ -1,5 +1,6 @@
 # [PlatformCon-2023](https://platformcon.com/speakers/karan-thakur)
 Data pipeline using debezium and kafka
+
 YouTube [link](https://youtu.be/_Ek-cU-3-zs?si=316zZzWfCqbZJ0CM)
 
 ### References
